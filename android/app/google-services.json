@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "649083761490",
+    "project_id": "worshop-task-2",
+    "storage_bucket": "worshop-task-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649083761490:android:448daefb35a7f0f993408b",
+        "android_client_info": {
+          "package_name": "com.tvk.workshop02task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "649083761490-4cuitcij2o0ih6hpnm6ij0kk2evo1gkb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGyWylsC5dtt8O0PMdFKKxGoITn8gfADQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "649083761490-4cuitcij2o0ih6hpnm6ij0kk2evo1gkb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
